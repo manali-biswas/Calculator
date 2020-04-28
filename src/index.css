@@ -28,6 +28,7 @@ body{
    justify-content:center; 
 }
 .input{
+	text-align:center;
   font-size:25px;
   height: 32px; 
   border:none;
